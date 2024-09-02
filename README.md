@@ -6,12 +6,6 @@ Client: React, TypeScript, Tailwind CSS, Framer Motion.
 
 Hosting: Vercel.
 
-Screenshots & Demo
-App Screenshot
-
-App Screenshot
-
-App Screenshot
 
 View Live Demo
 
